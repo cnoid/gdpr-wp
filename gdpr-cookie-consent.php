@@ -2,7 +2,7 @@
 /**
 * Plugin Name: GDPR Banner
 * Plugin URI: https://github.com/cnoid/gdpr-wp
-* Description: Shows a Cookie Consent banner. Customized for DailyAI. Workaround for Caching issues included.
+* Description: Shows a Cookie Consent banner.
 * Version: 2.1.4
 * Author: Mimmikk.
 * Author URI: https://github.com/cnoid
