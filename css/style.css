@@ -1,0 +1,35 @@
+/* css/style.css */
+.gdpr-cookie-consent {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #111111;
+    color: #fff;
+    text-align: center;
+    z-index: 9999; /* Ensure the banner appears above other elements */
+}
+
+.gdpr-cookie-consent button {
+    /* Style for the accept and reject buttons */
+    padding: 5px 10px;
+    margin: 0 5px;
+    background-color: #ff3254;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.gdpr-cookie-consent button:hover {
+    background-color: #e7798d;
+}
+
+.gdpr-cookie-consent a {
+    color: #aaa6a7;
+    font-size: small;
+}
+.gdpr-cookie-consent a:hover {
+    color: #ff3254;
+    font-size: small;
+}
